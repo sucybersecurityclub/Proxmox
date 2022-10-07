@@ -4,7 +4,6 @@
 
 # The login Information
 
----
 | user | password |
----
+| --- | --- |
 | cyberUser | CyberSecurityUser |
